@@ -1,0 +1,78 @@
+
+
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.paragraph {
+    width: 70%;
+    margin: 0 auto;
+}
+
+  
+  #cover {
+    width: 1200px;
+    height: 800px;
+    margin: 0 auto;
+  }
+  
+  #cover > img {
+    float: left;
+    border: 2px solid black;
+    width: 45%;
+    margin: 1.66%;
+  }
+
+  .vertical-image {
+    display: flex;
+    align-items: flex-start; /* Align items at the start of the flex container */
+   margin-left: 400px;
+    margin-top: 20px; /* Add space between the grid and the vertical image */
+}
+
+.vertical-image img {
+    max-height: 1200px; /* Set maximum height for the image */
+    width: auto; /* Allow the width to adjust based on the height */
+    border-radius: 8px;
+    margin-right: 80px; /* Add space between the image and text */
+    border: 2px solid black;
+    margin-left: -130px;
+    
+}
+
+
+.paragraph h2{
+    font-family: "oswald", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #333; /* Adjust text color as needed */
+    text-align: center;
+
+}
+.paragraph p {
+    font-family: "oswald", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #333; /* Adjust text color as needed */
+   text-align: center;
+}
+
+.image-text h2 {
+    font-family: "oswald", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #333; /* Adjust text color as needed */
+   margin-right: 300px;
+   margin-top: 20px;
+}
+.image-text p {
+    
+    font-family: "oswald", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #333; /* Adjust text color as needed */
+    margin-right: 220px;
+}
+
