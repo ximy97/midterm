@@ -1,0 +1,78 @@
+
+.proposal-container h1 {
+    font-family: "oswald", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #333; /* Adjust text color as needed */
+    
+        font-size:80px;
+        margin-bottom: 0;
+        margin-top: 8px;
+        padding-bottom: 0;
+        letter-spacing: -6px;
+        text-transform: uppercase;
+        
+}
+
+.proposal-container h2 {
+    font-family: "oswald", sans-serif;
+    font-weight: 400;
+    
+    color: #333; /* Adjust text color as needed */
+    font-size: 30px;
+    padding-right: 80px;
+    
+}
+.proposal-container p {
+    font-family: "oswald", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #333; /* Adjust text color as needed */
+}
+
+
+.image-text {
+    flex: 1;
+    padding: 40px;
+    padding-bottom: 0px;
+    color:#335254
+}
+
+.image {
+    flex: 1;
+
+    
+   
+}
+
+.image img {
+    max-width: 100vh;
+    height: auto;
+    display: block;
+    width: 100%;
+  
+}
+
+
+
+
+
+
+
+
+
+.paragraph h2{
+    font-family: "oswald", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #333; /* Adjust text color as needed */
+    text-align: center;
+
+}
+.paragraph p {
+    font-family: "oswald", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #333; /* Adjust text color as needed */
+   text-align: center;
+}
